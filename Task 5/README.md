@@ -1,2 +1,2 @@
-Mall Customer Segmentation:
+MALL CUSTOMER SEGMENTATION  
 This project performs customer segmentation on a mall dataset using KMeans clustering. We explore key customer features such as Age, Annual Income, and Spending Score to identify distinct customer groups. The analysis includes data exploration, preprocessing, clustering, and visualization using PCA and t-SNE. The resulting clusters provide actionable insights for targeted marketing and personalized strategies.
